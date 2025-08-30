@@ -12,6 +12,7 @@ faces_data = []
 
 i=0
 name = input("Enter your aadhar number: ")
+Voter-id=int(input("Enter your Voter-id:")
 framesTotal=51
 captureAfterFrame=2
 
